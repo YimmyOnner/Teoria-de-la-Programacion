@@ -1,1 +1,4 @@
-mkdir nombre_de_la_carpeta
+mkdir rtet
+    git add .
+    git commit -m "rtet"
+    git push
