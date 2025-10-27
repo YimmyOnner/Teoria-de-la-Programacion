@@ -1,4 +1,0 @@
-mkdir rtet
-    git add .
-    git commit -m "rtet"
-    git push
