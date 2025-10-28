@@ -1,11 +1,9 @@
-<div style="color: red;">
-
 # 💻 Portafolio: Teoría de la Programación
 
 Bienvenido a mi portafolio sobre teoría de la programación.  
 Aquí encontrarás conceptos, ejemplos y paradigmas del desarrollo de software.
 
-</div>
+
 ## 🧠 Encabezado (Header)
 
 > **Autor:** Tu Nombre  
