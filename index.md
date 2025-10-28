@@ -1,39 +1,51 @@
-# 💻 Teoría de la Programación
+<div style="color: red;">
 
-## 🧭 Portafolio Personal
+# 💻 Portafolio: Teoría de la Programación
 
-### 📘 Unidad 1
-Conceptos básicos de la programación, paradigmas y lógica computacional.
-[Conversiones](unidad1.md)
----
+Bienvenido a mi portafolio sobre teoría de la programación.  
+Aquí encontrarás conceptos, ejemplos y paradigmas del desarrollo de software.
 
-### 💡 Unidad 2
-Estructuras de control, funciones y modularidad en los programas.
+</div>
+## 🧠 Encabezado (Header)
 
----
-
-### 🧮 Unidad 3
-Estructuras de datos, algoritmos y análisis de eficiencia.
+> **Autor:** Tu Nombre  
+> **Materia:** Teoría de la Programación  
+> **Año:** 2025  
 
 ---
 
-### 🧠 Conclusiones
-La teoría de la programación permite comprender los fundamentos lógicos y estructurales que hacen posible el desarrollo de software eficiente y mantenible.
+## 🧭 Menú de Navegación
+
+- [Introducción](#introducción)
+- [Conceptos Básicos](#conceptos-básicos)
+- [Ejemplos de Código](unidad1.html)
+- [Paradigmas de Programación](#paradigmas-de-programación)
+- [Conclusiones](#conclusiones)
+- [Créditos](#créditos)
 
 ---
 
-### 🔖 Referencias
-- Documentación de [MDN Web Docs](https://developer.mozilla.org/)
-- Libro: *Introduction to Algorithms* – Cormen et al.
-- Recursos de [W3Schools](https://www.w3schools.com/)
+## 📘 Introducción
+
+La **teoría de la programación** estudia los fundamentos matemáticos y lógicos detrás de cómo se crean y analizan los programas.  
+Permite entender cómo diseñar algoritmos, cómo los lenguajes procesan las instrucciones y cómo verificar la corrección del software.
+
+> “El buen código es su mejor documentación.” — Steve McConnell
 
 ---
 
-### 🤖 Uso interactivo de la IA generativa
-La **IA generativa** puede apoyar el aprendizaje de programación mediante:
-- Explicación de código en lenguaje natural.  
-- Generación de ejemplos personalizados.  
-- Corrección y optimización de algoritmos.  
-- Asistencia en la escritura de documentación y código.
+## ⚙️ Conceptos Básicos
 
-🌐 *Integrar IA en el proceso educativo potencia la creatividad y mejora la productividad.*
+**Conceptos clave:**
+
+- **Algoritmo:** Secuencia de pasos para resolver un problema.  
+- **Sintaxis:** Reglas de escritura del lenguaje.  
+- **Semántica:** Significado de las instrucciones.  
+- **Compilador:** Programa que traduce el código a lenguaje máquina.  
+
+### 🧩 Ejemplo conceptual
+
+```text
+Entrada: número entero n
+Proceso: si n > 0 → imprimir "Positivo"
+Salida: mensaje correspondienteidad.*
