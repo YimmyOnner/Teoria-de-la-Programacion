@@ -24,7 +24,7 @@
     text-align: left;
     line-height: 1.8;
   ">
-    <p><strong>Nombre:</strong> ____________________________</p>
+    <p><strong>POU:</strong> ____________________________</p>
     <p><strong>Curso:</strong> ____________________________</p>
     <p><strong>Unidad:</strong> ____________________________</p>
     <p><strong>Ciclo:</strong> ____________________________</p>
